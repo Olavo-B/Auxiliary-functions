@@ -1,3 +1,3 @@
-from auxiliary import *
+from scripts.auxiliary import *
 
 save_file
