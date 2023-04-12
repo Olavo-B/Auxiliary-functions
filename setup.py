@@ -22,7 +22,7 @@ setuptools.setup(
     description="Lib with auxiliary functions for general proposes",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Olavo-B/Auxiliary-functions.git",
+    url="https://github.com/Olavo-B/auxiliary_functions.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
