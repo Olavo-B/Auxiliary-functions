@@ -1,0 +1,6 @@
+dd==0.5.7
+dtreeviz==2.1.4
+networkx==2.8.4
+pandas==1.4.2
+scipy==1.10.1
+setuptools==59.6.0
